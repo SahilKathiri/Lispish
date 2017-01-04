@@ -1,4 +1,4 @@
-#include "mpc.h"
+#include "inc/mpc.h"
 
 #ifdef _WIN32
 
